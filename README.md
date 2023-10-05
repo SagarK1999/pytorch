@@ -1,3 +1,3 @@
 [## Deployed NN models with ONNX
 
-Link: https://github.com/SagarK1999/pytorch/
+Link: https://sagark1999.github.io/pytorch/
