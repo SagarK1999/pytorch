@@ -21,7 +21,7 @@ async funtcion runExample() {
 
   await session.loadModel("./DLnet_WineData.onnx");
   let outputMap = await sesssion.run([tensorX]);
-  let outputData = outputMap.get('output')
+  let outputData = outputMap.get('output1')
 
   let predictions = document.getElementById('predictions');
 
