@@ -1,3 +1,3 @@
 
 
-Link ::  https://SagarK1999/pytorch/tree/main/XGBoost/
+Link ::  https://SagarK1999/pytorch/XGBoost/
